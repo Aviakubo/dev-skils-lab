@@ -24,9 +24,10 @@ h1 {
     background-color: white;
     color: #98c282;
     border: 2px solid #98c282;
+    width: 110px;
 }
 
-#adder:hover {
+#add-skill:hover {
     color: white;
     background-color: #98c282;
     transition-duration: 0.4s;
@@ -37,21 +38,11 @@ li {
     color: #f7a953;
 }
 
-#li-wrapper {
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-}
-
 input {
     border: 2px solid #98c282;
     margin: 10px 0px 0px 0px;
     width: 260px;
     display: inline;
-}
-
-#add-skill{
-    width: 110px;
 }
 
 .box {
